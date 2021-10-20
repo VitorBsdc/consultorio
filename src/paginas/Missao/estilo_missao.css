@@ -1,0 +1,16 @@
+.contato-container {
+    padding-top: 90px;
+}
+
+.lista-sobre-aparelho{
+    display: flex;
+    flex-wrap: wrap;
+}
+ 
+.lista-sobre-aparelho li {
+    margin-top: 20px;
+    padding: 25px 20px;
+    list-style: none;
+    text-align: start;
+    flex: 1;   
+}
